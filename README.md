@@ -165,8 +165,8 @@ p.note { display: none; }
 <h2><span class="yellow">25日は河内図書館でHPのスマホの縦表示と横表示でL/Oが崩れる問題を大修正</span></h2>
 <a href="20250727_001.JPG" target="_blank"><img src="20250727_001.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">FKD西にある靴のやすい岩渕スポーツの駐車場のお花達が見事</span></h2>
-<a href="20250727_002.JPG" target="_blank"><img src="20250727_002.JPG" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">FKD西にある靴のやすい岩渕スポーツの駐車場のお花達が見事<br>お花画像クリックで岩渕スポーツのGoogleMapsに飛びます↓</span></h2>
+<a href="https://maps.app.goo.gl/kcCTCCeSDfraxhSh7" target="_blank"><img src="20250727_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250727_003.JPG" target="_blank"><img src="20250727_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250727_004.JPG" target="_blank"><img src="20250727_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250727_005.JPG" target="_blank"><img src="20250727_005.JPG" alt="サンプル画像" class="responsive-media"></a>
