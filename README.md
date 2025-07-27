@@ -162,7 +162,7 @@ p.note { display: none; }
 
 <div class="media-container">
  
-<h2><span class="yellow">25日は河内図書館でHPのL/O崩れを修正しました<br>スマホの縦表示と横表示でL/Oが崩れる問題を大修正</span></h2>
+<h2><span class="yellow">25日は河内図書館でHPのスマホの縦表示と横表示でL/Oが崩れる問題を大修正</span></h2>
 <a href="20250727_001.JPG" target="_blank"><img src="20250727_001.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">FKD西にある靴のやすい岩渕スポーツの駐車場のお花達が見事</span></h2>
